@@ -1,12 +1,23 @@
-# hashicat-aws
-Hashicat: A terraform built application for use in Hashicorp workshops
+# Terraform-AWS-Sentinel
 
-Includes "Meow World" website.
 
-[![CircleCI](https://circleci.com/gh/hashicorp/hashicat-aws.svg?style=svg)](https://circleci.com/gh/hashicorp/hashicat-aws)
 
-![]{images/1-app.PNG)
+#Description 
+
+A terraform built application for use in Hashicorp workshops
+
+Includes website.
+
 
 Estimated monthly cost before apply
-![]{images/Costestimation.jpg)
+
+
+<img src="Costestimation.jpg" >
+
+Enforce Mandatory Tags 
+<img src="Enforce_tags.jpg" >
+
+
+
+<img src=1-app.PNG>
 
